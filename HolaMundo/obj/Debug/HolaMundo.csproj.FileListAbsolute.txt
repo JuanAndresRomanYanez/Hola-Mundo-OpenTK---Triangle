@@ -1,0 +1,11 @@
+C:\Users\Román Yáñez\Documents\DARKANDY\UAGRM\2022-2\Programación Gráfica\Proyectos\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe.config
+C:\Users\Román Yáñez\Documents\DARKANDY\UAGRM\2022-2\Programación Gráfica\Proyectos\HolaMundo\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\Román Yáñez\Documents\DARKANDY\UAGRM\2022-2\Programación Gráfica\Proyectos\HolaMundo\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\Román Yáñez\Documents\DARKANDY\UAGRM\2022-2\Programación Gráfica\Proyectos\HolaMundo\HolaMundo\bin\Debug\OpenTK.dll
+C:\Users\Román Yáñez\Documents\DARKANDY\UAGRM\2022-2\Programación Gráfica\Proyectos\HolaMundo\HolaMundo\bin\Debug\OpenTK.pdb
+C:\Users\Román Yáñez\Documents\DARKANDY\UAGRM\2022-2\Programación Gráfica\Proyectos\HolaMundo\HolaMundo\bin\Debug\OpenTK.xml
+C:\Users\Román Yáñez\Documents\DARKANDY\UAGRM\2022-2\Programación Gráfica\Proyectos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csprojAssemblyReference.cache
+C:\Users\Román Yáñez\Documents\DARKANDY\UAGRM\2022-2\Programación Gráfica\Proyectos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\Román Yáñez\Documents\DARKANDY\UAGRM\2022-2\Programación Gráfica\Proyectos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.csproj.CopyComplete
+C:\Users\Román Yáñez\Documents\DARKANDY\UAGRM\2022-2\Programación Gráfica\Proyectos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.exe
+C:\Users\Román Yáñez\Documents\DARKANDY\UAGRM\2022-2\Programación Gráfica\Proyectos\HolaMundo\HolaMundo\obj\Debug\HolaMundo.pdb
